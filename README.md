@@ -46,3 +46,11 @@ One of the best things about owning a 3D printer is that you can print its own e
 <a href="https://www.thingiverse.com/thing:2120148">Z-axis cable chain</a>
 
 ![Z-cable-chain](https://github.com/NickEngmann/Flsun-I3-2017/blob/master/images/4.jpg)
+
+## Community
+
+Here are a few Facebook groups that I joined for added support through the process:
+https://www.facebook.com/groups/FlsunCube/about/ </br>
+https://www.facebook.com/groups/FLSUN3DP/?ref=br_rs </br>
+https://www.facebook.com/groups/1855314194686705/?ref=br_rs </br>
+https://www.facebook.com/groups/511992158981791/?ref=br_rs </br>
