@@ -1,6 +1,9 @@
 # Flsun-I3-2017
 Nick's Reference Notes about the FLsun I3 (2017) Printer
 ![Printer](https://github.com/NickEngmann/Flsun-I3-2017/blob/master/images/1.jpg)
+## Link to Livestream
+<a class="link" href="https://www.twitch.tv/nickyslickshaha" target="_blank">Livestream</a>
+
 ## Introduction
 Buying a DIY kit and building my own 3D printer ended up being one of the most stressful projects I've ever embarked on. I ended up putting about 80 hours into a $200 kit, just to get the initial printer working.
 This was due to roughly translated instructions, vague videos, and to be honest - a lot of inexperience on my part. So I decided to make this repo that details some of my journey incase it can help anyone else that wants to do something similar.
