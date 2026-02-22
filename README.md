@@ -1,4 +1,6 @@
 # Flsun-I3-2017
+
+![Tests](https://github.com/NickEngmann/Flsun-I3-2017/actions/workflows/test.yml/badge.svg)
 Nick's Reference Notes about the FLsun I3 (2017) Printer
 ![Printer](https://github.com/NickEngmann/Flsun-I3-2017/blob/master/images/version2-1.jpg)
 ## Link to Livestream
@@ -65,3 +67,9 @@ https://www.facebook.com/groups/FlsunCube/about/ </br>
 https://www.facebook.com/groups/FLSUN3DP/?ref=br_rs </br>
 https://www.facebook.com/groups/1855314194686705/?ref=br_rs </br>
 https://www.facebook.com/groups/511992158981791/?ref=br_rs </br>
+
+## Running Tests
+
+```bash
+None
+```
