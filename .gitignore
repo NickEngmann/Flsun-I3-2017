@@ -1,0 +1,13 @@
+# Build artifacts and generated files
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.o
+*.so
+.env
+debug_*.py
+.cache/
+dist/
+build/
+*.egg-info/
